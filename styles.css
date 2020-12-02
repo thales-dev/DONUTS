@@ -63,7 +63,7 @@ header .right li {
 
 .box-middle {
   grid-row: 2 / 7;
-  background-image: url("../images/oranges.jpg");
+  background-image: url("oranges.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -99,7 +99,7 @@ header .right li {
 
 .box-right {
   grid-row: 2 / 4;
-  background-image: url("../images/donuts.jpg");
+  background-image: url("donuts.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
